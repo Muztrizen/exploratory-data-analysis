@@ -2,8 +2,10 @@
 
 This directory consists of source codes for EDA with various datasets.
 
-### Univariate Analysis
+### Descriptive Analysis
 1. Find missing values in datasets
+
+### Univariate Analysis
 2. Distribution of target feature (Seaborn)
 3. Histogram of features (Matplotlib)
 
