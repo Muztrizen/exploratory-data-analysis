@@ -4,7 +4,8 @@ This directory consists of source codes for EDA with various datasets.
 
 ### Univariate Analysis
 * Find missing values in datasets
-* Distribution of target features
+* Distribution of target feature
+* Distribution of target feature + fitting with distribution
 
 ### Bivariate Analysis
 
