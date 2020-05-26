@@ -17,4 +17,4 @@ This directory consists of source codes for EDA with various datasets.
 
 ### Multivariate Analysis
 1. Correlation matrix (Seaborn)
-2. Nested barplot (Seaborn)
+2. Grouped/Nested barplot (Seaborn)
