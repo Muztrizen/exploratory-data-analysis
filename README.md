@@ -14,6 +14,7 @@ This directory consists of source codes for EDA with various datasets.
 3. Hexbin plot (Seaborn)
 4. Kernel Density Estimation (KDE) plot (Seaborn)
 5. Relationship scatterplot (Seaborn)
+6. Categorical scatterplot (Seaborn)
 
 ### Multivariate Analysis
 1. Correlation matrix (Seaborn)
