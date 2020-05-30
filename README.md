@@ -16,6 +16,7 @@ This directory consists of source codes for EDA with various datasets.
 5. Relationship scatterplot (Seaborn)
 6. Categorical scatterplot (Seaborn)
 7. Boxplot (Seaborn)
+8. Barplot (Seaborn)
 
 ### Multivariate Analysis
 1. Correlation matrix (Seaborn)
